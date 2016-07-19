@@ -10,6 +10,7 @@
 	```
 
 2. Install `npm`, `bower` package 
+
 	```sh
 	npm install 
 	npm install -g bower # install bower
@@ -17,16 +18,17 @@
 	```
 
 3. Database for Laravel Auth: Edit .env Database
-```sh
+
+    ```sh
 	php artisan migrate
 	```
 
 4. Compile CSS + JS
-```sh
+
+    ```sh
 	gulp
 	```
 	
-
 5. Start server (support watch and reload)
 	```sh
 	php artisan serve
