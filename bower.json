@@ -1,0 +1,26 @@
+{
+  "name": "homnaynghegi.com",
+  "description": "Hôm Nay Nghe Gì?",
+  "main": "",
+  "license": "MIT",
+  "homepage": "homnaynghegi.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3",
+    "flat-ui": "^2.3.0"
+  },
+  "keywords": [
+    "homnaynghegi.com"
+  ],
+  "authors": [
+    "trungpv"
+  ]
+}
+
