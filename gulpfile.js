@@ -18,7 +18,7 @@ elixir(function(mix) {
         .copy(paths.fontawesome + 'fonts/**', 'public/fonts/fontawesome')
 				.copy(paths.flatui + 'fonts/**', 'public/fonts/flatui')
         .scripts([
-            paths.jquery + "jquery.js",
+            paths.jquery + "dist/jquery.js",
 						paths.flatui + "dist/js/flat-ui.js",
             './resources/assets/js/*.js',
         ], 'public/js/app.js', './')
